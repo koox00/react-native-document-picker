@@ -61,3 +61,8 @@ fastlane/screenshots
 
 iOSInjectionProject/
 node_modules/**/*
+
+android/.gradle
+android/local.properties
+android/*.iml
+
